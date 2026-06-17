@@ -1,0 +1,8 @@
+2026-06-17 10:12:01 INFO user=john login success ip=192.168.1.10
+2026-06-17 10:14:22 FAILED_LOGIN user=admin ip=45.33.21.100
+2026-06-17 10:14:30 FAILED_LOGIN user=admin ip=45.33.21.100
+2026-06-17 10:14:37 FAILED_LOGIN user=admin ip=45.33.21.100
+2026-06-17 10:15:02 FAILED_LOGIN user=admin ip=45.33.21.100
+2026-06-17 10:16:19 ALERT privilege_escalation user=admin ip=45.33.21.100
+2026-06-17 10:18:44 ALERT suspicious_file_access user=admin file=/etc/passwd
+2026-06-17 10:20:00 INFO user=sarah login success ip=192.168.1.12

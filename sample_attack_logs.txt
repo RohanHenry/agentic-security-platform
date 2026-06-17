@@ -1,0 +1,6 @@
+2026-06-17 10:01:12 FAILED_LOGIN user=admin ip=192.168.1.50 reason=invalid_password
+2026-06-17 10:01:45 FAILED_LOGIN user=admin ip=192.168.1.50 reason=invalid_password
+2026-06-17 10:02:10 FAILED_LOGIN user=admin ip=192.168.1.50 reason=invalid_password
+2026-06-17 10:03:22 privilege_escalation user=guest target_role=admin status=attempted
+2026-06-17 10:04:33 suspicious_file_access user=guest file=/etc/passwd action=read
+2026-06-17 10:05:01 suspicious_file_access user=guest file=/var/log/auth.log action=read
